@@ -1,0 +1,4 @@
+Doc esp32 arduino
+https://docs.espressif.com/projects/arduino-esp32/en/latest/
+un tutoriel non officiel pour compiler le script (j'ai déja fait un script linux pour ca)
+https://github.com/tianrking/arduino-cli-esp32
