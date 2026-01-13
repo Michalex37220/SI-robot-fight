@@ -6,15 +6,13 @@
 Motor leftMotor(
   MOTOR_LEFT_IN1,
   MOTOR_LEFT_IN2,
-  MOTOR_LEFT_PWM,
-  PWM_CHANNEL_LEFT
+  MOTOR_LEFT_PWM
 );
 
 Motor rightMotor(
   MOTOR_RIGHT_IN1,
   MOTOR_RIGHT_IN2,
-  MOTOR_RIGHT_PWM,
-  PWM_CHANNEL_RIGHT
+  MOTOR_RIGHT_PWM
 );
 
 // Initialisation du robot

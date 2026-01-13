@@ -11,7 +11,7 @@ class Motor {
     int pwmChannel;
 
   public:
-    Motor(int pin1, int pin2, int pinPWM, int channel);
+    Motor(int pin1, int pin2, int pinPWM);
 
     void begin();
     void forward(int speed);
