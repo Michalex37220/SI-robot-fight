@@ -1,0 +1,11 @@
+poids total = 1.5 kg
+périmètre du robot : 10 * 10
+vitesse maximum: 2 m/s 
+couple maximum : 
+type de terrain : plat
+autonomie : 30 min par batterie  
+3 batteries interchangeables
+distance de reception du véhicule : 12 m 
+distance du laser : skibidi
+rayon de virage : 
+diamètre de roue : 2 cm
